@@ -1,8 +1,7 @@
 flags: {}
 packages:
 - '.'
-- './ghcjs-dom'
-- './ghcjs-dom-jsffi'
+- '../ghcjs-dom-jsffi'
 extra-deps: []
 resolver: ghcjs-0.2.1.9007001_ghc-8.0.1
 compiler-check: match-exact
